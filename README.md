@@ -61,7 +61,7 @@ This project involves loading a dataset from Udemy, exploring the data, and visu
     ```
 
 ## Conclusion
-This README file provides an overview of loading the Udemy dataset, exploring its contents, and visualizing the distribution of course ratings using Python data analysis libraries.
+This README file provides an overview of loading the Udemy dataset, exploring its contents, and visualizing the distribution of course ratings using Python data analysis libraries. This analysis gives insight into the normality of the rating distribution of the Udemy courses. We then know that the mean, mode, and median are the same. Secondly, half of the values are above the mean and half also below the mean.
 
 ## Reference
 1.Kaggle
